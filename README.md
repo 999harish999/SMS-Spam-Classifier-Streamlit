@@ -32,12 +32,23 @@ Below is the ipython notebook where Exploratory data analysis is performed on th
 
 ## System Design
 
-## Approach
+![system design](sys_design1.drawio.png)
 
-## Approach Results 
+## Approach
 
 ## Deployment 
 
+The App is built using streamlit and deployed on https://share.streamlit.io/
+
 ## Requirements 
 
+App was developed and deployed using bellow configuration 
+
+```http
+python 3.8.5
+streamlit 0.89.0
+nltk 3.5
+scikit-learn 1.0
+numpy 1.19.2
+```
 
