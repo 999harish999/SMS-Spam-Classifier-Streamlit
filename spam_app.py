@@ -11,6 +11,7 @@ import pickle
 from sklearn.feature_extraction.text import CountVectorizer
 from helper_functions import clean_sentence
 from sklearn.linear_model import LogisticRegression
+import nltk_download_utils
 
 
 # load the countvectorizer model 
