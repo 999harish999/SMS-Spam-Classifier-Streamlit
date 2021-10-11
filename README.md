@@ -27,7 +27,7 @@ Download link is provided bellow:
 ## Data Exploration
 
 Below is the ipython notebook where Exploratory data analysis is performed on the sms messages  
-[EDA document](link)  
+[EDA document](https://github.com/999harish999/SMS-Spam-Classifier-Streamlit/blob/main/SMS%20spam%20classifier%20Exploratory%20Data%20Analysis.ipynb)  
 
 
 ## System Design
