@@ -32,7 +32,7 @@ Below is the ipython notebook where Exploratory data analysis is performed on th
 
 ## System Design : Proposed Methodology
 
-![system design](sys_design1.drawio.png)
+![system design](sys_design.png)
 
 ## Approach
 
