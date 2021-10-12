@@ -6,6 +6,8 @@ This app detects if the sms is a Spam or ham(not a spam). To simulate the actual
 
 ## Demo
 
+![demo](demo.gif)
+
 
 ## Motivation
 In todays age of digital marketing, we get hunderds of sms messages on our phones, most of them are irrelevant to us ranging from claiming that 'you have won a million dollor,click the link below to claim the reward you won' to fake bank representative messages etc. Among those messages, the important ones gets lost and there is high chance that we miss to read them. Some of the messages can have links which can be really harmful, they can steal you personal information also.
