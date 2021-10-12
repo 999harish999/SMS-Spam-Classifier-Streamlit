@@ -40,7 +40,7 @@ Below is the ipython notebook where Exploratory data analysis is performed on th
 Complete Aproach of Model Building, Evaluation and Selection is available in bellow document  
 [Approach ipython Notebook](https://github.com/999harish999/SMS-Spam-Classifier-Streamlit/blob/8d4ef36a78b6e366397018241db0b2647c2ca3c7/Approach%20document%20sms%20spam%20classifier.ipynb)
 
-![approach design](https://github.com/999harish999/SMS-Spam-Classifier-Streamlit/blob/d70dd899745e6e2f20fcfb4e114b8ecea52e494b/aproach%20design.png)
+![approach design](https://github.com/999harish999/SMS-Spam-Classifier-Streamlit/blob/bb4aaf2060c0cfc15f5a36b2befa342d10e7e728/aproach%20design1.png)
 
 ## Deployment 
 
